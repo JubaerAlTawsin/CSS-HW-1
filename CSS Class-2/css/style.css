@@ -1,0 +1,54 @@
+.main .block3{
+    width: 500px;
+    high: 100px;
+    border: 2px dotted green;
+    font-size:30px;
+    background-color: yellow;
+    text-align-last: center;
+}
+.main .block4{
+    width: 500px;
+    high: 100px;
+    border: 2px dotted rgb(1, 46, 1);
+    font-size:30px white;
+    color: white;
+    background-color: rgb(13, 34, 219);
+    text-align-last: center;
+}
+.main .block2{
+    width: 500px;
+    high: 100px;
+    border: 2px dotted rgb(1, 46, 1);
+    font-size:30px white;
+    color: white;
+    background-color: rgb(219, 13, 13);
+    text-align-last: center;
+}
+.main .block1{
+    width: 500px;
+    high: 100px;
+    border: 2px dotted rgb(1, 46, 1);
+    font-size:30px white;
+    color: white;
+    background-color: rgb(67, 143, 5);
+    text-align-last: center;
+}
+
+p .highlited{
+    background-color: lightblue
+}
+
+input[type=checkbox] {
+    accent-color: rgb(4, 41, 250);
+  }
+  
+input[type=radio] {
+    accent-color: rgb(252, 6, 129);
+  }
+  
+input[type=range] {
+    accent-color: rgb(196, 161, 8);
+  }
+a:active{
+    background-color: rgb(235, 31, 4);
+}
